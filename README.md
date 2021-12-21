@@ -6,16 +6,16 @@
 ### <div align="center">A dentist with a passion to data science and eHealth 👨‍💻 always willing to learn more 🚀</div>  
   
 
-- 🔭  I’m currently working on Datacamp prjoects  
+🔭  I’m currently working on Datacamp prjoects  
   
 
-- 🌱 I’m currently learning R, Python, SQL courses, and Power BI platform (Power BI, Power Apps, Power Automate, and Power Virtual Agents)  
+🌱 I’m currently learning R, Python, SQL courses, and Power BI platform (Power BI, Power Apps, Power Automate, and Power Virtual Agents)  
   
 
-- ❓ Ask me about anything related to eHealth, dentistry, data science  
+❓ Ask me about anything related to eHealth, dentistry, data science  
   
 
-- ⚡ Fun fact: I  am here to learn and transfer the knowledge I gain to others  
+⚡ Fun fact: I  am here to learn and transfer the knowledge I gain to others  
   
 
 <br/>  
@@ -68,7 +68,7 @@
 
 
 ## Connect with me  
-<a href="https://github.com/mthirahim" target="_blank">
+<a href="https://github.com/mthibrahim" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/ibrahimmtharwat" target="_blank">
