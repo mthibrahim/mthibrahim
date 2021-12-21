@@ -1,4 +1,4 @@
-(/https://github.com/mthibrahim/mthibrahim/blob/main/header.png?raw=true)
+! (/https://github.com/mthibrahim/mthibrahim/blob/main/header.png?raw=true)
 
 ### Hi there 👋🦷
 
