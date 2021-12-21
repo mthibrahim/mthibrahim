@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">A dentist with a passion to data science and eHealth 👨‍💻 always willing to learn more 🚀</div>  
+### <div align="center">A dentist with a passion to data science and eHealth 👨‍💻 Always willing to learn more 🚀</div>  
   
 
 - 🔭  I’m currently working on Datacamp prjoects  
