@@ -6,24 +6,22 @@
 ### <div align="center">A dentist with a passion to data science and eHealth 👨‍💻 always willing to learn more 🚀</div>  
   
 
-🔭  I’m currently working on Datacamp prjoects  
+- 🔭  I’m currently working on Datacamp prjoects  
   
 
-🌱 I’m currently learning R, Python, SQL courses, and Power BI platform (Power BI, Power Apps, Power Automate, and Power Virtual Agents)  
+- 🌱 I’m currently learning R, Python, SQL courses, and Power BI platform (Power BI, Power Apps, Power Automate, and Power Virtual Agents)  
   
 
-❓ Ask me about anything related to eHealth, dentistry, data science  
+- ❓ Ask me about anything related to eHealth, dentistry, data science  
   
 
-⚡ Fun fact: I  am here to learn and transfer the knowledge I gain to others  
+- ⚡ Fun fact: I  am here to learn and transfer the knowledge I gain to others  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
 
 
 ### DevOps  
@@ -52,17 +50,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ruby-original-wordmark.svg" alt="Ruby" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
+</div>  
 
 <br/>  
 
@@ -108,11 +96,3 @@
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
-
-<!--
-
-**mthibrahim/mthibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
--->
