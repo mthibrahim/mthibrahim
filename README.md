@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate as a junior data scientist in on any Data Science in the healthcare fields (specially dentistry)
 - 🤔 I’m looking for help with shifting my career to data science 
 - 💬 Ask me about eHealth, dentistry, data science
-- 📫 How to reach me: mohosni99@gmail.com
+- 📫 How to reach me: mr.ibrahim2010@gmail.com
 - ⚡ Fun fact: I am here to learn and transfer the knowledge I gain to others
 -->
