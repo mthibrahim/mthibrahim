@@ -1,4 +1,5 @@
-! /header.png
+!/header.png
+
 ### Hi there 👋🦷
 
 ###### 🔭 I’m currently working on Datacamp prjoects 
