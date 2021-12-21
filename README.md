@@ -1,6 +1,5 @@
-! (/https://github.com/mthibrahim/mthibrahim/blob/main/header.png?raw=true)
-
 ### Hi there 👋🦷
+https://github.com/mthibrahim/mthibrahim
 
 ###### 🔭 I’m currently working on Datacamp prjoects 
 ###### 🌱 I’m currently learning R, Python, SQL courses, and Power BI platform (Power BI, Power Apps, Power Automate, and Power Virtual Agents)
